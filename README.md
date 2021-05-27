@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/MultiCloudDevAzureTeam/PartsUnlimitedChandra/_apis/build/status/ChandradharA.ContosoAir?branchName=master)](https://dev.azure.com/MultiCloudDevAzureTeam/PartsUnlimitedChandra/_build/latest?definitionId=13&branchName=master)
 
 # Microsoft.Github CI Demo
 
